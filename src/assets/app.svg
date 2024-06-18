@@ -1,0 +1,35 @@
+<svg width="898" height="526" viewBox="0 0 898 526" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="2" y="2" width="894" height="633" rx="38" fill="url(#paint0_linear_14_2217)"/>
+<rect x="1" y="1" width="896" height="635" rx="39" stroke="white" stroke-opacity="0.13" stroke-width="2"/>
+<rect x="47" y="88" width="87" height="22" rx="11" fill="white" fill-opacity="0.14"/>
+<rect x="47" y="88" width="462" height="22" rx="11" fill="white" fill-opacity="0.14"/>
+<rect x="47" y="88" width="803" height="22" rx="11" fill="white" fill-opacity="0.14"/>
+<rect x="387" y="284" width="122" height="11" rx="5.5" fill="white" fill-opacity="0.14"/>
+<rect x="387" y="475" width="122" height="11" rx="5.5" fill="white" fill-opacity="0.14"/>
+<rect x="47" y="124" width="803" height="42" rx="7" fill="white" fill-opacity="0.15"/>
+<rect x="47" y="172" width="803" height="42" rx="7" fill="white" fill-opacity="0.1"/>
+<rect x="47" y="172" width="442" height="42" rx="7" fill="white" fill-opacity="0.1"/>
+<rect x="47" y="172" width="260" height="42" rx="7" fill="white" fill-opacity="0.1"/>
+<rect x="47" y="220" width="803" height="42" rx="7" fill="white" fill-opacity="0.15"/>
+<rect x="47" y="316" width="803" height="42" rx="7" fill="white" fill-opacity="0.15"/>
+<rect x="47" y="364" width="803" height="42" rx="7" fill="white" fill-opacity="0.1"/>
+<rect x="365" y="364" width="485" height="42" rx="7" fill="black" fill-opacity="0.1"/>
+<rect x="569" y="364" width="281" height="42" rx="7" fill="white" fill-opacity="0.1"/>
+<rect x="47" y="412" width="803" height="42" rx="7" fill="white" fill-opacity="0.15"/>
+<rect x="47" y="508" width="803" height="42" rx="7" fill="white" fill-opacity="0.15"/>
+<path d="M47 131C47 127.134 50.134 124 54 124H226V166H54C50.134 166 47 162.866 47 159V131Z" fill="white" fill-opacity="0.04"/>
+<path d="M241 137H339V147H241V137Z" fill="white" fill-opacity="0.04"/>
+<rect x="637" y="40" width="60" height="22" rx="11" fill="white" fill-opacity="0.15"/>
+<rect x="567" y="40" width="60" height="22" rx="11" fill="white" fill-opacity="0.15"/>
+<rect x="497" y="40" width="60" height="22" rx="11" fill="white" fill-opacity="0.15"/>
+<rect x="707" y="40" width="60" height="22" rx="11" fill="white" fill-opacity="0.15"/>
+<circle cx="835.95" cy="50.9503" r="4.95031" fill="white" fill-opacity="0.15"/>
+<path d="M833.352 36.2249C834.665 35.4669 836.282 35.4669 837.595 36.2249L846.826 41.5542C848.139 42.3121 848.947 43.7129 848.947 45.2288V55.8874C848.947 57.4033 848.139 58.8041 846.826 59.5621L837.595 64.8913C836.282 65.6493 834.665 65.6493 833.352 64.8913L824.122 59.5621C822.809 58.8041 822 57.4033 822 55.8874V45.2288C822 43.7129 822.809 42.3121 824.122 41.5542L833.352 36.2249Z" fill="white" fill-opacity="0.15"/>
+<circle cx="63" cy="51" r="16" fill="white" fill-opacity="0.15"/>
+<defs>
+<linearGradient id="paint0_linear_14_2217" x1="35" y1="26" x2="896" y2="519.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D8FA00" stop-opacity="0.04"/>
+<stop offset="1" stop-color="#222222" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>

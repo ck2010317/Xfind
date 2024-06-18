@@ -1,0 +1,94 @@
+{
+  "groups": [
+    {
+      "name": "LUMIERE_ERC",
+      "creation": 1659705600,
+      "members": 18,
+      "ontract": "0x1a678d24c5f0947de11cc433ad4be8d0c583bd6b"
+    },
+    {
+      "name": "TaylorSwift_ERC20",
+      "creation": 1643500800,
+      "members": 4,
+      "ontract": "0xe5344aa226f7bd5dad0c0b31a6426049e7adaca1"
+    },
+    {
+      "name": "ethereuminucoin",
+      "creation": 1643500800,
+      "members": 3,
+      "ontract": "0x1ef846ce0da79d8d4e111bf8c5117cd1209a0478"
+    },
+    {
+      "name": "xerc20",
+      "creation": 1643500800,
+      "members": 2,
+      "ontract": "0x6c10d1611a5a95cb967e4bcab5791fd101194949"
+    },
+    {
+      "name": "Nexyfi_Portal",
+      "creation": 1643500800,
+      "members": 2,
+      "ontract": "0x559c65106951035033bd44217a03ffcc0a64b30f"
+    },
+    {
+      "name": "ZeroXCopyETH",
+      "creation": 1643500800,
+      "members": 2,
+      "ontract": "0x5690f48e1ab440d704ec7175497c10f922bb6176"
+    },
+    {
+      "name": "kabochancommunity",
+      "creation": 1643500800,
+      "members": 2,
+      "ontract": "0x0c5cb676e38d6973837b9496f6524835208145a2"
+    },
+    {
+      "name": "sleep_entry",
+      "creation": 1643500800,
+      "members": 1,
+      "ontract": "0x094a8b5e9e1e66ae3e7e60053ed4fc292edd5272"
+    },
+    {
+      "name": "dibbles_official",
+      "creation": 1643500800,
+      "members": 1,
+      "ontract": "0x891de5f139791ddf9dbabf519cfe2a049f8fc6d3"
+    },
+    {
+      "name": "babytrump_portal",
+      "creation": 1643500800,
+      "members": 1,
+      "ontract": "0xe58f78f94313b5a4ff5f9bed5d3612d74c9713e8"
+    },
+    {
+      "name": "BudderDawgToken",
+      "creation": 1643500800,
+      "members": 1,
+      "ontract": "0x06ee6cca6d6cdca3326c4b6f0fd204c694cede89"
+    },
+    {
+      "name": "MemeAICoin",
+      "creation": 1643500800,
+      "members": 1,
+      "ontract": "0x4c9d49f5110a9925442e7f19934ef23e6cfa7e12"
+    },
+    {
+      "name": "InstaApeETH",
+      "creation": 1643500800,
+      "members": 1,
+      "ontract": "0xc713d944bb525a406fc92104d8ce513c7008730b"
+    },
+    {
+      "name": "BerachainPortal",
+      "creation": 1643500800,
+      "members": 1,
+      "ontract": "0x82c6cff50b06617b48d4ae16747bedc93f8ec417"
+    },
+    {
+      "name": "GrokERC20",
+      "creation": 1643500800,
+      "members": 1,
+      "ontract": "0x8390a1da07e376ef7add4be859ba74fb83aa02d5"
+    }
+  ]
+}
